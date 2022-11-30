@@ -1,0 +1,1 @@
+This folder contains exercise on basic shell commands. 

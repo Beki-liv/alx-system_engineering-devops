@@ -1,0 +1,1 @@
+This repo is dedeated to devops course.
