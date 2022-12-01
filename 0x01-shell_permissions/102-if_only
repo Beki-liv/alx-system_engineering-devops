@@ -1,0 +1,5 @@
+#!/bin/bash
+if [ $USERNAME = "guillaume"];
+then
+    sudo chown betty hello
+fi
