@@ -1,0 +1,1 @@
+This repo contains projects on Shell, init files, variables and expansions
